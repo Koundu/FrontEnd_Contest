@@ -1,0 +1,132 @@
+*{
+    position: relative;
+    width: 1728px;
+    height: 2399px;
+    background: #000000;
+}
+
+
+
+.container .rect1{
+    position: fixed;
+    z-index: 1;
+    width:1728px;
+    height: 86px;
+    left: 0px;
+    top: 0px;
+    background: #FCAF02;
+    overflow: overflow;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+.Header{
+    position: absolute;
+    overflow: visible;
+    width: 127px;
+    height: 39px;
+    left: 58px;
+    top: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+    background:rgb(0,0,0,0);
+}
+
+.slp{
+    position: absolute;
+    width: 736px;
+    height: 78px;
+    left: 58px;
+    top: 174px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 78px;
+}
+
+.para{
+  position: absolute;
+  width: 917px;  
+  height: 238px;
+  left: 63px;
+  top: 285px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+  color: #FFFFFF;
+  justify-content: center;
+}
+
+img{
+    position: absolute;
+    width: 697px;
+    height:482px;
+    left: 1678px;
+    top: 173px;
+    background: url(https://assets.gqindia.com/photos/5e21ac6e75deba0008bf87c2/16:9/pass/jeff.jp);
+    transform: translate(-100%);
+}
+
+button{
+    position: absolute;
+    width: 323px;
+    height: 66px;
+    left: 63px;
+    top: 573px;
+    background: #FCAF02;
+    border-radius: 500px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.login{
+    position: absolute;
+    width: 95px;
+    height: 39px;
+    left: 177px;
+    top: 587px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.contactUs{
+position: absolute;
+width: 369px;
+height: 78px;
+left: 63px;
+top: 771px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 78px;
+color: #FCAF02;
+}
+
+.rect2{
+box-sizing: border-box;
+position: absolute;
+width: 1570px;
+height: 82px;
+left: 63px;
+top: 200px;
+border: 2px solid #FCAF02;
+border-radius: 100px;
+}
+
